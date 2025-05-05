@@ -34,7 +34,9 @@ This project replicates the core functionality of Amazon's homepage, and althoug
 
 The live version of this project is deployed on GitHub Pages. You can visit it by clicking the link below:
 
-[**Visit Amazon Front-End Clone**](https://varunMVP.github.io/amazon-front-end-clone/)
+![Image](https://github.com/user-attachments/assets/bb86e435-c13c-4211-a5ff-f5e8b7b349d5)
+
+![Image](https://github.com/user-attachments/assets/596da854-b644-4f62-9588-86f613831fc4)
 
 Feel free to explore the live demo to see how it looks and functions.
 
